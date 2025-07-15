@@ -5,7 +5,7 @@ I'm Ilyas, a 3rd-year Software Engineering student at the University of Ottawa, 
 ---
 
 ### 🎯 Looking for Summer 2026 Internships!
-I'm currently seeking **Machine Learning Engineer** or **Data Scientist** roles for **Summer 2026**. If you’re working on exciting projects or know of any opportunities, I’d love to connect!
+I'm currently seeking **ML Engineer** or **Data Scientist** or **Software Engineer** roles for **Summer 2026**. If you’re working on exciting projects or know of any opportunities, I’d love to connect!
 
 ---
 
@@ -18,7 +18,7 @@ I'm currently seeking **Machine Learning Engineer** or **Data Scientist** roles 
 ---
 
 ### 🛠 Tech & Tools
-**Languages:** Python, R, SQL, JavaScript  
+**Languages:** Python, R, SQL, JavaScript, Java  
 **Libraries/Tools:** TensorFlow, PyTorch, Scikit-learn, Pandas, Power BI, Docker, Git  
 **Cloud Platforms:** AWS, Azure  
 **Other:** Fluent in English & French
