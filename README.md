@@ -1,4 +1,4 @@
-## lyas Ait Ali
+## Ilyas Ait Ali
 
 I'm a 4th-year Software Engineering student at the University of Ottawa. I’m on the Dean’s List for outstanding academic performance every term and passionate about solving real-world problems through Machine Learning, Data Science, and software development.
 
