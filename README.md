@@ -1,16 +1,29 @@
-## Hi there 👋
+## lyas Ait Ali
 
-<!--
-**Ilyas-Ait-Ali/Ilyas-Ait-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th-year Software Engineering student at the University of Ottawa. I’m on the Dean’s List for outstanding academic performance every term and passionate about solving real-world problems through Machine Learning, Data Science, and software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open to Summer 2026 Internships
+
+I'm currently looking for internship roles in:
+- Machine Learning Engineering  
+- Data Science  
+- Software Engineering  
+
+If you're working on interesting problems or know of any opportunities, feel free to reach out.
+
+---
+
+## Skills
+
+**Languages:** Python, R, SQL, JavaScript, Java  
+**Libraries & Tools:** TensorFlow, PyTorch, Scikit-learn, Pandas, Power BI, Docker, Git  
+**Familiar with Cloud Platforms:** AWS, Azure  
+
+---
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/ilyas-ait-ali-467bb819b/)  
+- Email: ilyasgameraa@gmail.com
