@@ -16,7 +16,7 @@ I build **production-minded systems** across backend, data, and machine learning
 - Writing code that is **testable, documented, and scalable**
 
 My work sits at the intersection of:
-**Software Engineering · Data · Machine Learning**
+- **Software Engineering · Data · Machine Learning**
 
 ---
 
