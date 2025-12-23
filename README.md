@@ -3,7 +3,7 @@
 **4th-Year Software Engineering @ University of Ottawa**  
 **GPA: 9.0/10 (3.9/4) · Dean’s List every term**
 
-I build **production-minded systems** across backend, data, and machine learning — from raw data to deployed applications.
+I build **production-minded systems** across backend, data, and machine learning, from raw data to deployed applications.
 
 > Build. Test. Learn. Repeat.
 
