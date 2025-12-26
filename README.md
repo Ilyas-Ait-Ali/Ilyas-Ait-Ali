@@ -11,7 +11,6 @@ I build **production-minded systems** across backend, data, and machine learning
 
 ## Engineering Focus
 
-- Designing **end-to-end systems** (API → data → ML → deployment)
 - Turning **real-world data** into reliable, measurable outcomes
 - Writing code that is **testable, documented, and scalable**
 
