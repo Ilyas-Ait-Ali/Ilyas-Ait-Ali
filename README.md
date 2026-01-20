@@ -31,7 +31,7 @@ FastAPI · Flask · PostgreSQL · Docker · Git
 Scikit-learn · Pandas · NumPy · TensorFlow · PyTorch · Power BI
 
 **Cloud (Hands-on & Familiar)**  
-AWS (EC2, S3) · Azure · Kubernetes
+AWS · Azure · Kubernetes
 
 ---
 
